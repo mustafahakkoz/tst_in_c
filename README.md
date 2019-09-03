@@ -5,6 +5,7 @@
 150117509 Mustafa Abdullah Hakkoz  
 
 
+An algorithm to build ternary search tree (TST) and to make necessary operations on it.
 
 
 ## [manual](https://github.com/mustafahakkoz/tst_in_c/blob/master/CSE225_fall_2018_Project_2.PDF)
